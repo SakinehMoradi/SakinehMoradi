@@ -4,7 +4,6 @@
 -👩‍💻 I,m currently learning Frontend
 - 💞️ I’m looking to collaborate on fullstack project
 - 📫 sakinehmoradi220@gmail.com
-- 
 -✔ Twitter -> @SakinehMoradi07
 
 <!---
