@@ -4,7 +4,7 @@
 -👩‍💻 I,m currently learning Frontend
 - 💞️ I’m looking to collaborate on fullstack project
 - 📫 sakinehmoradi220@gmail.com
--✔ Twitter -> @SakinehMoradi07
+- ✔ Twitter -> @SakinehMoradi07
 
 <!---
 SakinehMoradi/SakinehMoradi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
